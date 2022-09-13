@@ -2,7 +2,8 @@
 
 [Vidéo source](https://youtu.be/pTFZFxd4hOI)
 
-Document original créé avec Notion : https://splendid-spruce-087.notion.site/Docker-tutorial-6c3619e41d5449e8afa82e3f3c0d4db0
+[Document original créé avec Notion](https://splendid-spruce-087.notion.site/Docker-tutorial-34c3b139ae384b87826af772518dc563)
+
 ## C’est quoi ?
 
 Plateforme pour construire, faire tourner et envoyer des applications.
